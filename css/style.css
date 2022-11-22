@@ -1,0 +1,7 @@
+.bold { font-weight: bold; }
+.line {
+  border-top: 1px solid #E1E1E1;
+  padding-top: 1em;
+}
+.columns { margin-top: 5%; }
+.bottom-space { padding-bottom: 3em; }
