@@ -1,0 +1,13 @@
+@media (max-width: 1025px) {
+  .main-title {
+    font-size: 6.0rem
+  }
+  
+  .title {
+    font-size: 5.0rem
+  }
+  
+  .plain {
+    font-size: 1.5em
+  }
+}
